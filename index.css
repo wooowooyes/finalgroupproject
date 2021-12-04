@@ -1,0 +1,58 @@
+.row {
+    padding: 20px;
+}
+
+.btn-primary {
+    background-color: #C06372 !important;
+    border-radius: 15px !important;
+    width: 150px !important;
+    position: absolute;
+    margin-bottom: 15px !important;
+}
+
+body {
+    font-family: ‘Nunito’, sans-serif !important;
+}
+
+h1 {
+    color: #535252;
+    font-size: 36px !important;
+}
+
+.dropdown-toggle {
+    background-color: white !important;
+    color: black !important;
+    font-size: 20px !important;
+    border-radius: 15px !important;
+}
+
+.dropdown-toggle::after {
+    color: #C06372 !important;
+}
+
+.card {
+    border-radius: 15px !important;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+img {
+    border-radius: 15px !important;
+}
+
+.card {
+    align-items: center !important;
+    justify-content: end !important;
+}
+
+.form-control {
+    border-radius: 15px !important;
+    height: 44px !important;
+}
+
+.material-icons.input-group-text {
+    color: #C06372;
+    border-radius: 15px !important;
+    background-color: white !important;
+    height: 44px !important;
+}
