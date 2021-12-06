@@ -45,8 +45,8 @@ header {
 
 nav {
     float: right;
-    font-family: "Nunito", Times, serif;
-    font-weight: 800;
+    font-family: "Nunito", sans-serif;
+    font-weight: bold;
     margin-top: 20px;
 }
 
